@@ -7,7 +7,7 @@ Full-Stack Software Engineer with a strong focus on backend architecture, scalab
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,materialui" />
 </p>
 
 ### Backend
