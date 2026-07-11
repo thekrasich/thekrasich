@@ -25,8 +25,8 @@ Full-Stack Software Engineer with a strong focus on backend architecture, scalab
   <img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github" />
 </p>
 
-## 🚀 Currently
+## Currently
 
 - Building full-stack web applications
 - Exploring AI integrations and LLM-powered tools
-- Learning Rust
+- Conducting research in numerical methods and scientific computing
