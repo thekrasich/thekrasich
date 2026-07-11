@@ -17,7 +17,7 @@ Full-Stack Software Engineer with a strong focus on backend architecture, scalab
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,dynamodb" />
 </p>
 
 ### Cloud & DevOps
